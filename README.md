@@ -1,7 +1,11 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
+<<<<<<< HEAD
 Programa exclusivo e gratuito,com ajuda da Rocketseat para ensino de tecnologias WEB.
+=======
+Programa exclusivo e gratuito, com ajuda da Rocketseat para ensino de tecnologias WEB.
+>>>>>>> 1cc3e88f7549a9b034b6dfee5ebc509e71024495
 </p>
 
 <p align="center">

@@ -35,7 +35,11 @@ body * {
 }
 
 #container {
+<<<<<<< HEAD
   width: 100%;
+=======
+  width: 100px;
+>>>>>>> 1cc3e88f7549a9b034b6dfee5ebc509e71024495
   max-width: 588px;
   margin: 56px auto 0px;
   padding: 0 24px;
@@ -157,6 +161,7 @@ footer {
   padding: 24px 0;
   text-align: center;
   font-size: 14px;
+<<<<<<< HEAD
 }
 /* media queries */
 @media (min-width: 700px) {
@@ -168,3 +173,4 @@ footer {
     --bg-url: url(./assets/bg-desktop-light.jpg);
   }
 }
+
